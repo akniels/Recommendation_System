@@ -78,4 +78,3 @@ def sol_4_test(sol_4_dict):
             if sol_4_dict_1[k] != sol_4_dict[k]:
                 print("Sorry it looks like that isn't the right value associated with {}.  Try again.".format(k))
      
-    
