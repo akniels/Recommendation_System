@@ -6,3 +6,8 @@ All the supplemental files hold the data analyzed.
 ## Acknowledgements
 
 Some of the items in the code used the content in the Udacity Data Science nanodegree program Recomendation engines section
+
+* https://www.geeksforgeeks.org/python-intersection-two-lists/
+
+* https://github.com/deogakofi/recommendations_IBM/blob/master/Recommendations_with_IBM.ipynb
+
